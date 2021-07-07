@@ -1,0 +1,64 @@
+.food-main{
+    padding-left: 230px;
+}
+h1{
+    color: #573C7F;
+    padding-left: 430px;
+}
+h4{
+    color: #E44D26;
+}
+.container{
+    width: 810px;
+    display: flex;
+    padding: 15px;
+    margin: 15px;
+    border: 1px solid lightGray;
+}
+.container img{
+    width: 250px;
+    height: 100px;
+}
+.food{
+    border: 1px solid lightGray;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 2px 2px 1px  rgb(204, 197, 197);
+}
+
+.html{
+    color: #f16529;
+}
+.css{
+    color: #3F94D6;
+}
+.bootstrap{
+    color: #573C7F;
+}
+.btn{
+    background-color: #21A4F1;
+    border: none;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: rgb(225, 225, 235);
+    
+}
+.btn:hover{
+    background-color: #f16529;
+    transition: 0.3s;
+}
+.food {
+    background-color: cornsilk;
+}
+
+.food:hover {
+    background-color: #69b38a;
+    transition: 1000;
+}
+.footer{
+    padding-left: 430px;
+}
+.footer h4{
+    padding-left:100px
+}
